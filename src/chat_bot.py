@@ -1,6 +1,7 @@
 import playsound
 import gtts
 import speech_recognition as sr
+import os
 
 
 def user_input():
@@ -31,6 +32,7 @@ def reply(text):
     voice.save(audio_file)
 
     playsound.playsound(audio_file)
+    os.remove(audio_file)
 
 
 def handle_command(user_text):
