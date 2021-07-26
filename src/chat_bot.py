@@ -36,6 +36,8 @@ def reply(text):
 
 
 def handle_command(user_text):
+    user_text = user_text.lower()  # для соответствия написанию реплик с маленькой буквы
+
     if user_text == 'привет':
         reply('Привет-привет!')
     elif user_text == 'пока':
