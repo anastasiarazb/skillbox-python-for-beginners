@@ -1,4 +1,4 @@
-3 days intensive
+Трехдневный интенсив по разработке голосового помощника на Python с нуля
 
 [Ссылка на презентацию](https://docs.google.com/presentation/d/1zTCd7lbfmjEMOg1p249TJ_ff4-RanAv0EBGTNEqWWZ8/edit?usp=sharing)
 
