@@ -1,6 +1,7 @@
 src/audio.mp3
 .idea
-
+voice_assistant/
+tmp.py
 
 
 # Byte-compiled / optimized / DLL files
