@@ -9,5 +9,3 @@
 Ссылка на онлайн-среду разработки: https://ideone.com/
 
 [Ссылка на полную версию кода](https://github.com/anastasiarazb/skillbox-python-for-beginners)
-
-[Ссылка на версию кода 26.07-28.07.2021](https://github.com/anastasiarazb/skillbox-python-for-beginners/tree/2021-07)
